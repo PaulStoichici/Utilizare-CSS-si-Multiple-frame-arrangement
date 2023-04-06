@@ -1,0 +1,14 @@
+.yellow{
+    float: top left;
+height: 200px;
+width: 200px;
+padding: 50px ;
+background-color: black;
+border: 50px solid red;
+}
+.body{
+    background-color: #E10847;
+}
+.c1{
+    background-color: purple;
+}
